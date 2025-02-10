@@ -1,2 +1,3 @@
 # educational-guide
-My second repo
+My second repository
+
